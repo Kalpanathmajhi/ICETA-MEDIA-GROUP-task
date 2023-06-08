@@ -1,0 +1,16 @@
+.position-box {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    background-color: yellow
+  }
+  
+  .position-text {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+  }
+  
